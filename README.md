@@ -66,9 +66,6 @@ User Logs In → JWT is generated and stored in HTTP-only cookie.
 Protected Routes → Checked via middleware or API route verification.
 
 Logout → Cookie cleared.
+<img width="1140" height="906" alt="Screenshot 2025-08-10 161753" src="https://github.com/user-attachments/assets/ec42083a-e2d4-4c04-9371-f2e1c0e6546b" />
 
-📸 Screenshots
-<img width="1140" height="906" alt="Screenshot 2025-08-10 161753" src="https://github.com/user-attachments/assets/02556177-8d1e-428f-8ec8-437a756ad835" />
-
-<img width="1102" height="877" alt="image" src="https://github.com/user-attachments/assets/902da6df-d692-4bb4-a73e-b447491b3413" />
 
